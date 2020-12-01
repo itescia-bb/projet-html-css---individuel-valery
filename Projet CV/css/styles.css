@@ -1,0 +1,17 @@
+body {
+    color: grey;
+}
+.header {
+background-color: yellow;
+}
+.btn {
+    background-color: blue;
+    font-size:12px !important;
+    padding:8px 15px 8px 15px;
+    border-radius: 10px;
+    color: white;
+}
+.btn-secondaire {
+    background-color: green;
+    text-decoration: none;
+}
